@@ -1,0 +1,22 @@
+---
+# tasks file for users/groups
+  - name: Add users
+    ansible.builtin.user:
+      name: "{{ item }}"
+      state: present
+    with_items:
+    - someuser
+
+
+    - name: Install packages
+  hosts: localhost
+  become: true
+  become_method: sudo 
+  user: ec2-user
+  tasks: 
+  - name: Ensure group "somegroup" exists
+    ansible.builtin.group:
+      name: "{{ item }}"
+      state: present
+    with_items:
+    - somegroup
