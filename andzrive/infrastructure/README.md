@@ -8,6 +8,8 @@ This collection provides:
 
     Provides complite installation of Wordpress engine to Ubutu servers. 
 
+    Provides installation of R1soft agent.
+
 Thank You for choosing our collection. 
 
 

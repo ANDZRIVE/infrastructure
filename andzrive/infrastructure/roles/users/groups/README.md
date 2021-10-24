@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Creates 1 new user and Group "DevOps".
 
 Requirements
 ------------

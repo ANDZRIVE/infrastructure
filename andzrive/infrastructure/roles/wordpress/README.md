@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Provides complite installation of Wordpress engine to Ubutu servers.
 
 Requirements
 ------------

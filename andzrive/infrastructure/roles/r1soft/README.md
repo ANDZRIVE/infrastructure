@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Provides installation of R1soft agent.
 
 Requirements
 ------------

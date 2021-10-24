@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Creates 5 t2.micro Instances with ami-074cce78125f09d61 image on a board.
 
 Requirements
 ------------
